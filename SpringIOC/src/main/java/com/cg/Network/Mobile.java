@@ -12,7 +12,7 @@ public class Mobile {
 	Sim a=c.getBean("Sim",Sim.class);
 	a.calling();
 	a.data();
-	
+
 	
 	
 /*	VI a=c.getBean("VI",VI.class);
