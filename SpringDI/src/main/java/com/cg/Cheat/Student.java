@@ -2,7 +2,7 @@ package com.cg.Cheat;
 
 public class Student {
 
-	private MathCheat chit,p;
+	private MathCheat chit;
 	
 	public MathCheat getChit() {
 		return chit;
